@@ -316,7 +316,7 @@ footer .footer-container{
      header {
         
     background: url(../images/developer.png), url(../images/header_bg.png), #FFF8F3;
-    background-position:left, bottom right;
+    background-position: top left, bottom right;
     background-repeat: no-repeat;
 }
 
