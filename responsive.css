@@ -1,0 +1,21 @@
+   /* __WEB FIRST DESIGN__ */
+
+/*  --Laptop Device-- */
+@media screen and (max-width:1200px) {}
+
+/*  --Tablet Device-- */
+@media screen and (max-width:992px) {}
+
+/*  --Laptop Device-- */
+@media screen and (max-width:768px) {}
+
+/*  --Big Screen Mobs Device-- */
+@media screen and (max-width:576px) {}
+
+/*  --Normal Mobs Device-- */
+@media screen and (max-width:576px) {}
+
+   /* __DEVICE SPECIFIC media query__ */
+@media screen and (min-width:576px) and (max-width:992px) {
+    
+}   
